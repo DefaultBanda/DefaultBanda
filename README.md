@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PCB Design
 - 📫 How to reach me Email: Defaultgam3r@protonmail.com
 
-- {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 
 <!---
